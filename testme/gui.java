@@ -1,13 +1,12 @@
 package com.dangvue0.testme;
-import org.openqa.selenium.Keys;
 
 import javax.swing.*;
 import javax.swing.event.MenuEvent;
+import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.Arrays;
-import java.awt.*;
 import java.io.File;
+import java.util.Arrays;
 import java.util.Set;
 
 public class gui {
